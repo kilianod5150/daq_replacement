@@ -1,0 +1,125 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2011 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions
+# and other software and tools, and its AMPP partner logic
+# functions, and any output files from any of the foregoing
+# (including device programming or simulation files), and any
+# associated documentation or information are expressly subject
+# to the terms and conditions of the Altera Program License
+# Subscription Agreement, Altera MegaCore Function License
+# Agreement, or other applicable license agreement, including,
+# without limitation, that your use is for the sole purpose of
+# programming logic devices manufactured by Altera and sold by
+# Altera or its authorized distributors.  Please refer to the
+# applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus II
+# Version 11.0 Build 157 04/27/2011 SJ Web Edition
+# Date created = 11:12:38  December 21, 2011
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		EvalBoardAdas3022_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus II software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "Cyclone II"
+set_global_assignment -name DEVICE EP2C5F256C7
+set_global_assignment -name TOP_LEVEL_ENTITY EvalBoard_top
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 11.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "12:53:40  JANUARY 19, 2012"
+set_global_assignment -name LAST_QUARTUS_VERSION 11.0
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_location_assignment PIN_N16 -to ad_i[0]
+set_location_assignment PIN_M15 -to ad_i[1]
+set_location_assignment PIN_M16 -to ad_i[2]
+set_location_assignment PIN_M14 -to ad_i[3]
+set_location_assignment PIN_L14 -to ad_i[4]
+set_location_assignment PIN_F16 -to adcok_o
+set_location_assignment PIN_G16 -to b_busy_o
+set_location_assignment PIN_N15 -to bd_io[15]
+set_location_assignment PIN_P16 -to bd_io[14]
+set_location_assignment PIN_P15 -to bd_io[13]
+set_location_assignment PIN_P14 -to bd_io[12]
+set_location_assignment PIN_L16 -to bd_io[11]
+set_location_assignment PIN_N13 -to bd_io[10]
+set_location_assignment PIN_M12 -to bd_io[9]
+set_location_assignment PIN_N12 -to bd_io[8]
+set_location_assignment PIN_D14 -to bd_io[7]
+set_location_assignment PIN_E14 -to bd_io[6]
+set_location_assignment PIN_D13 -to bd_io[5]
+set_location_assignment PIN_C14 -to bd_io[4]
+set_location_assignment PIN_E16 -to bd_io[3]
+set_location_assignment PIN_D16 -to bd_io[2]
+set_location_assignment PIN_D15 -to bd_io[1]
+set_location_assignment PIN_H13 -to bd_io[0]
+set_location_assignment PIN_G15 -to brd_n_i
+set_location_assignment PIN_H12 -to breset_i
+set_location_assignment PIN_P2 -to busy_i
+set_location_assignment PIN_K15 -to bwr_n_i
+set_location_assignment PIN_P1 -to cnv_o
+set_location_assignment PIN_J12 -to control_i
+set_location_assignment PIN_C2 -to csb_o
+set_location_assignment PIN_N1 -to din_o
+set_location_assignment PIN_H16 -to dspclk_i
+set_location_assignment PIN_H2 -to m_clk_i
+set_location_assignment PIN_L4 -to pd_o
+set_location_assignment PIN_J11 -to pllok_o
+set_location_assignment PIN_P3 -to reset_o
+set_location_assignment PIN_M1 -to sck_o
+set_location_assignment PIN_L1 -to sdo_i
+set_location_assignment PIN_E5 -to en_3p3v_n_o
+set_location_assignment PIN_E3 -to en_5p0v_n_o
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_location_assignment PIN_E4 -to en_2p5v_n_o
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (Verilog)"
+set_global_assignment -name EDA_TIME_SCALE "1 ps" -section_id eda_simulation
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT "VERILOG HDL" -section_id eda_simulation
+set_global_assignment -name EDA_TEST_BENCH_ENABLE_STATUS TEST_BENCH_MODE -section_id eda_simulation
+set_global_assignment -name EDA_NATIVELINK_SIMULATION_TEST_BENCH EvalBoard_top_tst -section_id eda_simulation
+set_global_assignment -name IOBANK_VCCIO 3.3V -section_id 1
+set_global_assignment -name EDA_TEST_BENCH_NAME adas3022_model_testbench -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id adas3022_model_testbench
+set_global_assignment -name EDA_TEST_BENCH_RUN_SIM_FOR "10 us" -section_id adas3022_model_testbench
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME adas3022_model_testbench -section_id adas3022_model_testbench
+set_global_assignment -name EDA_TEST_BENCH_NAME adas3022_vlg_tst -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id adas3022_vlg_tst
+set_global_assignment -name EDA_TEST_BENCH_RUN_SIM_FOR "10 us" -section_id adas3022_vlg_tst
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME adas3022_vlg_tst -section_id adas3022_vlg_tst
+set_global_assignment -name VERILOG_FILE EvalBoard_top.v
+set_global_assignment -name VERILOG_FILE ADAS3022.v
+set_global_assignment -name VERILOG_FILE CED1Z_interface.v
+set_global_assignment -name QIP_FILE pll.qip
+set_global_assignment -name EDA_TEST_BENCH_NAME ADAS3022_tst -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id ADAS3022_tst
+set_global_assignment -name EDA_TEST_BENCH_RUN_SIM_FOR "10 us" -section_id ADAS3022_tst
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME ADAS3022_tst -section_id ADAS3022_tst
+set_global_assignment -name EDA_TEST_BENCH_NAME EvalBoard_top_tst -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id EvalBoard_top_tst
+set_global_assignment -name EDA_TEST_BENCH_RUN_SIM_FOR "10 us" -section_id EvalBoard_top_tst
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME EvalBoard_top_tst -section_id EvalBoard_top_tst
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name EDA_TEST_BENCH_FILE simulation/TestBench/adas3022_model_testbench.v -section_id adas3022_model_testbench
+set_global_assignment -name EDA_TEST_BENCH_FILE simulation/TestBench/adas3022_model.v -section_id adas3022_vlg_tst
+set_global_assignment -name EDA_TEST_BENCH_FILE simulation/TestBench/ADAS3022_tst.v -section_id ADAS3022_tst
+set_global_assignment -name EDA_TEST_BENCH_FILE simulation/TestBench/EvalBoard_top_tst.v -section_id EvalBoard_top_tst
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

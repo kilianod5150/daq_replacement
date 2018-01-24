@@ -1,0 +1,97 @@
+Altera SOPC Builder Version 11.00 Build 157
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2012.07.23 12:39:07 (*) mk_custom_sdk starting
+# 2012.07.23 12:39:07 (*) Reading project D:/AD/AnalogSVN/CED1Z/ADAS3022/NiosCpu/uC.ptf.
+
+# 2012.07.23 12:39:07 (*) Finding all CPUs
+# 2012.07.23 12:39:07 (*) Finding all available components
+# 2012.07.23 12:39:07 (*) Reading D:/AD/AnalogSVN/CED1Z/ADAS3022/NiosCpu/.sopc_builder/install.ptf
+
+# 2012.07.23 12:39:07 (*) Found 63 components
+
+# 2012.07.23 12:39:08 (*) Finding all peripherals
+
+# 2012.07.23 12:39:08 (*) Finding software components
+
+# 2012.07.23 12:39:08 (*) (Legacy SDK Generation Skipped)
+# 2012.07.23 12:39:08 (*) (All TCL Script Generation Skipped)
+# 2012.07.23 12:39:08 (*) (No Libraries Built)
+# 2012.07.23 12:39:08 (*) (Contents Generation Skipped)
+# 2012.07.23 12:39:08 (*) mk_custom_sdk finishing
+
+# 2012.07.23 12:39:08 (*) Starting generation for system: uC.
+
+.
+.
+.
+.
+.
+..
+...
+..
+
+# 2012.07.23 12:39:10 (*) Running Generator Program for cpu
+
+# 2012.07.23 12:39:11 (*) Starting Nios II generation
+# 2012.07.23 12:39:11 (*)   Checking for plaintext license.
+# 2012.07.23 12:39:12 (*)   Couldn't query license setup in Quartus directory c:/altera/11.0/quartus
+# 2012.07.23 12:39:12 (*)   Defaulting to contents of LM_LICENSE_FILE environment variable
+# 2012.07.23 12:39:12 (*)   LM_LICENSE_FILE environment variable is empty
+# 2012.07.23 12:39:12 (*)   Plaintext license not found.
+# 2012.07.23 12:39:12 (*)   No license required to generate encrypted Nios II/e.
+
+# 2012.07.23 12:39:12 (*)   Getting CPU configuration settings
+# 2012.07.23 12:39:12 (*)   Elaborating CPU configuration settings
+# 2012.07.23 12:39:12 (*)   Creating all objects for CPU
+# 2012.07.23 12:39:14 (*)   Generating HDL from CPU objects
+# 2012.07.23 12:39:14 (*)   Creating plain-text HDL
+# 2012.07.23 12:39:16 (*) Done Nios II generation
+
+# 2012.07.23 12:39:16 (*) Running Generator Program for onchip_mem
+
+# 2012.07.23 12:39:17 (*) Running Generator Program for leds
+
+# 2012.07.23 12:39:18 (*) Running Generator Program for sysid
+
+# 2012.07.23 12:39:18 (*) Running Generator Program for sram
+
+# 2012.07.23 12:39:19 (*) Running Generator Program for ucprobe_uart
+
+Warning: currently assigned JTAG instance ID 0 for ucprobe_uart/avalon_jtag_slave is shared by jtag_uart_0/avalon_jtag_slave. Reassigned to 1.
+
+# 2012.07.23 12:39:20 (*) Running Generator Program for jtag_uart_0
+
+# 2012.07.23 12:39:21 (*) Running Generator Program for sys_timer
+
+# 2012.07.23 12:39:22 (*) Running Generator Program for pwr_data
+
+# 2012.07.23 12:39:23 (*) Running Generator Program for i2c_int
+
+# 2012.07.23 12:39:24 (*) Running Generator Program for pwr_en_clk
+
+# 2012.07.23 12:39:25 (*) Running Generator Program for uC_clock_0
+
+
+# 2012.07.23 12:39:26 (*) Making arbitration and system (top) modules.
+
+# 2012.07.23 12:39:33 (*) Generating Quartus symbol for top level: uC
+
+# 2012.07.23 12:39:33 (*) Symbol D:/AD/AnalogSVN/CED1Z/ADAS3022/NiosCpu/uC.bsf already exists, no need to regenerate
+# 2012.07.23 12:39:33 (*) Creating command-line system-generation script: D:/AD/AnalogSVN/CED1Z/ADAS3022/NiosCpu/uC_generation_script
+
+# 2012.07.23 12:39:33 (*) Running setup for HDL simulator: modelsim
+
+
+# 2012.07.23 12:39:34 (*) Completed generation for system: uC.
+# 2012.07.23 12:39:34 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : D:/AD/AnalogSVN/CED1Z/ADAS3022/NiosCpu/uC.ptf 
+  System HDL Model : D:/AD/AnalogSVN/CED1Z/ADAS3022/NiosCpu/uC.v 
+  System Generation Script : D:/AD/AnalogSVN/CED1Z/ADAS3022/NiosCpu/uC_generation_script 
+
+# 2012.07.23 12:39:34 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.

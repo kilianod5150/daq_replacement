@@ -1,0 +1,2 @@
+Created on:Thursday, January 19, 2012
+Based on:ADAS3022CEDInterface

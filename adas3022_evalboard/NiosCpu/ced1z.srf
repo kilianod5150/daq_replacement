@@ -1,0 +1,1 @@
+{ "Warning" "WVRFX_L2_HDL_CONDITION_EXP_IS_CONST" "uC_clock_0.v(98) " "Warning (10037): Verilog HDL or VHDL warning at *: conditional expression evaluates to a constant" {  } { { "uC_clock_0.v" "" { Text "D:/Work/InProgress/ADAS3022/CED1Z/uC_clock_0.v" 98 0 0 } }  } 0 10037 "Verilog HDL or VHDL warning at %1!s!: conditional expression evaluates to a constant" 1 1 "" 0 -1}

@@ -1,0 +1,163 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2011 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus II
+# Version 11.0 Build 157 04/27/2011 SJ Web Edition
+# Date created = 18:39:25  November 24, 2011
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		ced1z_ad7621_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus II software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY Cyclone
+set_global_assignment -name DEVICE EP1C4F400C6
+set_global_assignment -name TOP_LEVEL_ENTITY ced1z
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 11.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "18:39:25  NOVEMBER 24, 2011"
+set_global_assignment -name LAST_QUARTUS_VERSION 11.0
+set_global_assignment -name DEVICE_FILTER_PIN_COUNT 400
+set_global_assignment -name DEVICE_FILTER_SPEED_GRADE 6
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (Verilog)"
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT "VERILOG HDL" -section_id eda_simulation
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_location_assignment PIN_F7 -to LED_D15
+set_location_assignment PIN_E9 -to LED_IO
+set_location_assignment PIN_E8 -to LED_TRANSFER
+set_location_assignment PIN_V15 -to PWR_D0
+set_location_assignment PIN_V16 -to PWR_D1
+set_location_assignment PIN_V17 -to PWR_D2
+set_location_assignment PIN_W11 -to PWR_D3
+set_location_assignment PIN_W12 -to PWR_D4
+set_location_assignment PIN_W13 -to PWR_D5
+set_location_assignment PIN_W14 -to PWR_D6
+set_location_assignment PIN_W16 -to PWR_D7
+set_location_assignment PIN_W17 -to PWR_EN_REG_CLK
+set_location_assignment PIN_C4 -to RESET_N
+set_location_assignment PIN_C10 -to SRAM_A0
+set_location_assignment PIN_C11 -to SRAM_A1
+set_location_assignment PIN_C12 -to SRAM_A2
+set_location_assignment PIN_C13 -to SRAM_A3
+set_location_assignment PIN_C14 -to SRAM_A4
+set_location_assignment PIN_C16 -to SRAM_A5
+set_location_assignment PIN_C17 -to SRAM_A6
+set_location_assignment PIN_D10 -to SRAM_A7
+set_location_assignment PIN_D11 -to SRAM_A8
+set_location_assignment PIN_D12 -to SRAM_A9
+set_location_assignment PIN_D13 -to SRAM_A10
+set_location_assignment PIN_D14 -to SRAM_A11
+set_location_assignment PIN_D15 -to SRAM_A12
+set_location_assignment PIN_D16 -to SRAM_A13
+set_location_assignment PIN_E10 -to SRAM_A14
+set_location_assignment PIN_E11 -to SRAM_A15
+set_location_assignment PIN_E12 -to SRAM_A16
+set_location_assignment PIN_E13 -to SRAM_A17
+set_location_assignment PIN_E14 -to SRAM_A18
+set_location_assignment PIN_E15 -to SRAM_A19
+set_location_assignment PIN_E16 -to SRAM_A20
+set_location_assignment PIN_F10 -to SRAM_CE1_N
+set_location_assignment PIN_F12 -to SRAM_OE_N
+set_location_assignment PIN_F14 -to SRAM_WE_N
+set_location_assignment PIN_A10 -to SRAM_D0
+set_location_assignment PIN_A11 -to SRAM_D1
+set_location_assignment PIN_A12 -to SRAM_D2
+set_location_assignment PIN_A13 -to SRAM_D3
+set_location_assignment PIN_A14 -to SRAM_D4
+set_location_assignment PIN_A15 -to SRAM_D5
+set_location_assignment PIN_A17 -to SRAM_D6
+set_location_assignment PIN_B10 -to SRAM_D7
+set_location_assignment PIN_K5 -to USB_CLOCKOUT
+
+set_global_assignment -name POWER_DEFAULT_TOGGLE_RATE "12.5 %"
+set_global_assignment -name POWER_DEFAULT_INPUT_IO_TOGGLE_RATE "12.5 %"
+set_location_assignment PIN_K19 -to PAR_D0
+set_location_assignment PIN_M14 -to PAR_D1
+set_location_assignment PIN_H17 -to GPIO4
+set_location_assignment PIN_H18 -to GPIO5
+set_location_assignment PIN_J13 -to I2C_SCL
+set_location_assignment PIN_M15 -to PAR_D2
+set_location_assignment PIN_M16 -to PAR_D3
+set_location_assignment PIN_N14 -to PAR_D6
+set_location_assignment PIN_N15 -to PAR_D7
+set_location_assignment PIN_N16 -to PAR_D8
+set_location_assignment PIN_M18 -to PAR_D5
+set_location_assignment PIN_K16 -to I2C_SDA
+set_location_assignment PIN_M17 -to PAR_D4
+set_location_assignment PIN_N17 -to PAR_D9
+set_location_assignment PIN_N18 -to PAR_D10
+set_location_assignment PIN_P14 -to PAR_D11
+set_location_assignment PIN_P15 -to PAR_D12
+set_location_assignment PIN_P16 -to PAR_D13
+set_location_assignment PIN_P17 -to PAR_D14
+set_location_assignment PIN_P18 -to PAR_D15
+set_location_assignment PIN_G17 -to PAR_RD
+set_location_assignment PIN_G18 -to PAR_WR
+set_location_assignment PIN_J15 -to SPORT_DR0SEC
+set_location_assignment PIN_R17 -to TMR0
+set_location_assignment PIN_Y15 -to PWR_I2C_A0
+set_location_assignment PIN_Y17 -to PWR_I2C_A1
+set_location_assignment PIN_Y11 -to PWR_I2C_CS_N
+set_location_assignment PIN_Y13 -to PWR_I2C_RD_N
+set_location_assignment PIN_Y14 -to PWR_I2C_WR_N
+set_location_assignment PIN_R15 -to RXINT
+set_global_assignment -name VERILOG_FILE uC_clock_2.v
+set_global_assignment -name VERILOG_FILE uC_clock_1.v
+set_global_assignment -name VERILOG_FILE i2c_int.v
+set_global_assignment -name VERILOG_FILE pwr_en_clk.v
+set_global_assignment -name VERILOG_FILE pwr_data.v
+set_global_assignment -name VERILOG_FILE ucprobe_uart.v
+set_global_assignment -name VERILOG_FILE uC_clock_0.v
+set_global_assignment -name VERILOG_FILE uC.v
+set_global_assignment -name VERILOG_FILE sysid.v
+set_global_assignment -name VERILOG_FILE sys_timer.v
+set_global_assignment -name VERILOG_FILE onchip_mem.v
+set_global_assignment -name VERILOG_FILE leds.v
+set_global_assignment -name VERILOG_FILE jtag_uart_0.v
+set_global_assignment -name VERILOG_FILE cpu_test_bench.v
+set_global_assignment -name VERILOG_FILE cpu_oci_test_bench.v
+set_global_assignment -name VERILOG_FILE cpu_jtag_debug_module_wrapper.v
+set_global_assignment -name VERILOG_FILE cpu_jtag_debug_module_tck.v
+set_global_assignment -name VERILOG_FILE cpu_jtag_debug_module_sysclk.v
+set_global_assignment -name VERILOG_FILE cpu.v
+set_global_assignment -name VERILOG_FILE ced1z.v
+set_global_assignment -name QIP_FILE uC.qip
+set_global_assignment -name SDC_FILE ced1z.sdc
+set_location_assignment PIN_B12 -to SRAM_D9
+set_location_assignment PIN_B13 -to SRAM_D10
+set_location_assignment PIN_B14 -to SRAM_D11
+set_location_assignment PIN_B15 -to SRAM_D12
+set_location_assignment PIN_B16 -to SRAM_D13
+set_location_assignment PIN_B17 -to SRAM_D14
+set_location_assignment PIN_B18 -to SRAM_D15
+set_location_assignment PIN_B11 -to SRAM_D8
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

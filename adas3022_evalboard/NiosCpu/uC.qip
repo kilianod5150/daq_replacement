@@ -1,0 +1,49 @@
+# ext_clk
+# cpu
+set_global_assignment -name SDC_FILE [file join $::quartus(qip_path) cpu.sdc]
+set_global_assignment -name SOURCE_FILE [file join $::quartus(qip_path) cpu.ocp]
+# pll
+set_global_assignment -name TCL_FILE [file join $::quartus(ip_rootpath) altera/sopc_builder_ip/altera_avalon_altpll/altera_avalon_altpll_hw.tcl]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) pll.v]
+# onchip_mem
+# leds
+# sysid
+# sram
+# tri_state_bridge_0
+# ucprobe_uart
+# jtag_uart_0
+# sys_timer
+# mm_console_master
+set_global_assignment -name TCL_FILE [file join $::quartus(ip_rootpath) altera/sopc_builder_ip/altera_jtag_avalon_master/altera_jtag_avalon_master_hw.tcl]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_avalon_master/mm_console_master_mm_console_master.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_avalon_st_jtag_interface.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_jtag_dc_streaming.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_jtag_sld_node.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_jtag_streaming.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_pli_streaming.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_avalon_st_clock_crosser.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_avalon_st_pipeline_base.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_avalon_st_idle_remover.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_avalon_st_idle_inserter.v] -library lib_mm_console_master
+set_global_assignment -name SDC_FILE [file join $::quartus(qip_path) mm_console_master/altera_jtag_dc_streaming/altera_avalon_st_jtag_interface.sdc]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/timing_adapter/mm_console_master_timing_adt.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_avalon_sc_fifo/altera_avalon_sc_fifo.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_avalon_st_bytes_to_packets/altera_avalon_st_bytes_to_packets.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_avalon_st_packets_to_bytes/altera_avalon_st_packets_to_bytes.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/altera_avalon_packets_to_master/altera_avalon_packets_to_master.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/channel_adapter/mm_console_master_b2p_adapter.v] -library lib_mm_console_master
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) mm_console_master/channel_adapter/mm_console_master_p2b_adapter.v] -library lib_mm_console_master
+# pwr_data
+# i2c_int
+# pwr_en_clk
+# ADAS3022_0
+set_global_assignment -name TCL_FILE [file join $::quartus(qip_path) IP/ADAS3022/hdl/src/ADAS3022_hw.tcl]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) IP/ADAS3022/hdl/src/ADAS3022_Avalon_core.v]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) IP/ADAS3022/hdl/src/Eval_Board_interface.v]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) IP/ADAS3022/hdl/src/write_master.v]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) ADAS3022_0.v]
+# null
+set_global_assignment -name SDC_FILE [file join $::quartus(ip_rootpath) altera/sopc_builder_ip/altera_avalon_clock_adapter/altera_avalon_clock_adapter.sdc]
+set_global_assignment -name SOPC_BUILDER_SIGNATURE_ID 1C6F65D47E8900000138B333C96F 
+ 
