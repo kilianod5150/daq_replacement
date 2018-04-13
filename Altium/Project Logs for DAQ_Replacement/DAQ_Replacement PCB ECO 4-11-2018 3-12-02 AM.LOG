@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=NetP6_1 Pin=P6-1
+Removed Pin From Net: NetName=USBMCU_TTMS/SWDIO_EXT Pin=P6-2
+Removed Pin From Net: NetName=GND_USB Pin=P6-3
+Removed Pin From Net: NetName=USBMCU_TCK/SWCLK_EXT Pin=P6-4
+Removed Pin From Net: NetName=GND_USB Pin=P6-5
+Removed Pin From Net: NetName=USBMCU_SWO_EXT Pin=P6-6
+Removed Pin From Net: NetName=USBMCU_TDI_EXT Pin=P6-8
+Removed Pin From Net: NetName=GND_USB Pin=P6-9
+Removed Pin From Net: NetName=USBMCU_NRST_EXT Pin=P6-10
+Removed Pin From Net: NetName=VIO_ADC1 Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=GND_EXT Pin=U43-1
+Removed Pin From Net: NetName=AVDD_ADC1 Pin=U43-2
+Removed Pin From Net: NetName=GND_EXT Pin=U43-3
+Removed Pin From Net: NetName=GND_EXT Pin=U43-4
+Removed Pin From Net: NetName=GND_EXT Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND_EXT Pin=U43-7
+Removed Member From Class: ClassName=GPIO_5V_LEVEL_SHIFTER Member=C70
+Removed Member From Class: ClassName=I2S_ADC_OPTION Member=C74
+Removed Member From Class: ClassName=INPUTS_OUTPUTS Member=C91
+Removed Member From Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=C159
+Removed Member From Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=C160
+Removed Member From Class: ClassName=PSU_USB_MCU Member=C215
+Removed Member From Class: ClassName=WIFI_BLE_OPTION Member=C253
+Removed Member From Class: ClassName=USB Member=D5
+Removed Member From Class: ClassName=USB Member=D6
+Removed Member From Class: ClassName=USB Member=D7
+Removed Member From Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=R148
+Removed Member From Class: ClassName=PSU_DAQ_MCU Member=R157
+Removed Member From Class: ClassName=PSU_DAQ_MCU Member=R171
+Removed Member From Class: ClassName=PSU_USB_MCU Member=R171
+Removed Member From Class: ClassName=PSU_DAQ_MCU Member=R174
+Removed Member From Class: ClassName=PSU_DAQ_MCU Member=R178
+Removed Member From Class: ClassName=PSU_USB_MCU Member=R182
+Added Component: Designator=P6(SMTC-FTSH-105-01-L-DV-K_V)
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=USBMCU_TTMS/SWDIO_EXT Pin=P6-2
+Added Pin To Net: NetName=GND_USB Pin=P6-3
+Added Pin To Net: NetName=USBMCU_TCK/SWCLK_EXT Pin=P6-4
+Added Pin To Net: NetName=GND_USB Pin=P6-5
+Added Pin To Net: NetName=USBMCU_SWO_EXT Pin=P6-6
+Added Pin To Net: NetName=USBMCU_TDI_EXT Pin=P6-8
+Added Pin To Net: NetName=GND_USB Pin=P6-9
+Added Pin To Net: NetName=USBMCU_NRST_EXT Pin=P6-10
+Added Pin To Net: NetName=VIO_ADC1 Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=GND_EXT Pin=U43-1
+Added Pin To Net: NetName=AVDD_ADC1 Pin=U43-2
+Added Pin To Net: NetName=GND_EXT Pin=U43-3
+Added Pin To Net: NetName=GND_EXT Pin=U43-4
+Added Pin To Net: NetName=GND_EXT Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND_EXT Pin=U43-7
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C38 100pF
+Added Member To Class: ClassName=GPIO_5V_LEVEL_SHIFTER Member=Component C71 CAP0402
+Added Member To Class: ClassName=I2S_ADC_OPTION Member=Component C75 CAP0402
+Added Member To Class: ClassName=I2S_ADC_OPTION Member=Component C91 CAP0402
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component C93 CAP0402
+Added Member To Class: ClassName=Memory_EEPROM Member=Component C147 CAP0402
+Added Member To Class: ClassName=Memory_EEPROM Member=Component C148 CAP0402
+Added Member To Class: ClassName=OPTO_ISOLATION Member=Component C150 CAP0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component C161 CAP0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component C162 CAP0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component C195 CAP0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component C196 CAP0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component C201 CAP0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component C202 CAP0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component C203 CAP0805
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component C204 CAP0402
+Added Member To Class: ClassName=PSU_USB_MCU Member=Component C219 CAP0805
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component C257 CAP0402
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component C258 CAP0402
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component C259 CAP0805
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component C260 CAP0402
+Added Member To Class: ClassName=WIFI_BLE_OPTION Member=Component C261 CAP0402
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402
+Added Member To Class: ClassName=MCU_DAQ Member=Component R108 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R135 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R136 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R137 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R138 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R141 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R142 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R143 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R144 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R145 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R148 RES0402
+Added Member To Class: ClassName=MCU_USB Member=Component R149 RES0402
+Added Member To Class: ClassName=OPTO_ISOLATION Member=Component R150 RES0603
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R156 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R163 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R164 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R166 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R167 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R168 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R169 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R170 RES0402
+Added Member To Class: ClassName=PHASE_MODULATOR_TRANSMITTER Member=Component R172 RES0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R181 RES0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R183 RES0805
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R184 RES0805
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R185 Jumper 2512(6432)
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R186 Jumper 2512(6432)
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R187 RES0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R188 RES0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R189 RES0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R190 RES0402
+Added Member To Class: ClassName=PSU_DAQ_MCU Member=Component R191 RES0402
+Added Member To Class: ClassName=PSU_USB_MCU Member=Component R193 RES0402
+Added Member To Class: ClassName=PSU_USB_MCU Member=Component R194 RES0402
+Added Member To Class: ClassName=PSU_USB_MCU Member=Component R195 RES0402
+Added Member To Class: ClassName=PSU_USB_MCU Member=Component R196 RES0402
+Added Member To Class: ClassName=USB Member=Component R250 RES0402
+Added Member To Class: ClassName=USB Member=Component R252 RES0402
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component R253 RES0402
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component R254 RES0402
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component R255 RES0402
+Added Member To Class: ClassName=VOLTAGE_REFERENCE Member=Component R256 RES0402
+Added Member To Class: ClassName=WIFI_BLE_OPTION Member=Component R257 RES0402
+Added Member To Class: ClassName=WIFI_BLE_OPTION Member=Component R258 RES0402
