@@ -1,0 +1,288 @@
+Removed Pin From Net: NetName=3.3V Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=GND_EXT Pin=U43-1
+Removed Pin From Net: NetName=5V_ANALOG Pin=U43-2
+Removed Pin From Net: NetName=GND_EXT Pin=U43-3
+Removed Pin From Net: NetName=GND_EXT Pin=U43-4
+Removed Pin From Net: NetName=GND_EXT Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND_EXT Pin=U43-7
+Added Component: Designator=C123(CAPC0402(1005)60_L)
+Added Component: Designator=C124(CAPC0402(1005)60_L)
+Added Component: Designator=C125(CAPC0402(1005)60_L)
+Added Component: Designator=C126(CAPC0402(1005)60_L)
+Added Component: Designator=C127(CAPC0402(1005)60_L)
+Added Component: Designator=C128(CAPC0402(1005)60_L)
+Added Component: Designator=C129(CAPC0402(1005)60_L)
+Added Component: Designator=C130(CAPC0402(1005)60_L)
+Added Component: Designator=C131(CAPC0402(1005)60_L)
+Added Component: Designator=C132(CAPC0402(1005)60_L)
+Added Component: Designator=C133(CAPC0402(1005)60_L)
+Added Component: Designator=C134(CAPC0402(1005)60_L)
+Added Component: Designator=C135(CAPC0402(1005)60_L)
+Added Component: Designator=C136(CAPC0402(1005)60_L)
+Added Component: Designator=C137(CAPC0402(1005)60_L)
+Added Component: Designator=C138(CAPC0402(1005)60_L)
+Added Component: Designator=C139(CAPC0402(1005)60_L)
+Added Component: Designator=C140(CAPC0402(1005)60_L)
+Added Component: Designator=C141(CAPC0402(1005)60_L)
+Added Component: Designator=C142(CAPC0402(1005)60_L)
+Added Component: Designator=C143(CAPC0805(2012)145_L)
+Added Component: Designator=C144(CAPC0402(1005)60_L)
+Added Component: Designator=D5(Green_LED_150060GS75000)
+Added Component: Designator=D6(Green_LED_150060GS75000)
+Added Component: Designator=FB2(MURA-BLM15AG221SN1x_V)
+Added Component: Designator=P6(SMTC-FTSH-105-01-L-DV-K_V)
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=R121(RESC0402(1005)_L)
+Added Component: Designator=R122(RESC0402(1005)_L)
+Added Component: Designator=R123(RESC0402(1005)_L)
+Added Component: Designator=R124(RESC0402(1005)_L)
+Added Component: Designator=R125(RESC0402(1005)_L)
+Added Component: Designator=R127(RESC0402(1005)_L)
+Added Component: Designator=R128(RESC0402(1005)_L)
+Added Component: Designator=R129(RESC0402(1005)_L)
+Added Component: Designator=R130(RESC0402(1005)_L)
+Added Component: Designator=R139(0603R)
+Added Component: Designator=R140(0603R)
+Added Component: Designator=R146(0603R)
+Added Component: Designator=R147(0603R)
+Added Component: Designator=R149(RESC0402(1005)_L)
+Added Component: Designator=SW2(DIPT-DTSM-6_V)
+Added Component: Designator=U14(STM-LQFP100_M)
+Added Component: Designator=U16(ONSC-SC70-5-419A-02_V)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Component: Designator=X3(NDK-NX3225GD-8MHZ-STD-CRA-3_V)
+Added Component: Designator=X4(ITTI-14340272-32.768KHz-2_V)
+Added Pin To Net: NetName=GND_USB Pin=C123-2
+Added Pin To Net: NetName=GND_USB Pin=C124-2
+Added Pin To Net: NetName=GND_USB Pin=C125-2
+Added Pin To Net: NetName=GND_USB Pin=C126-2
+Added Pin To Net: NetName=GND_USB Pin=C127-2
+Added Pin To Net: NetName=GND_USB Pin=C128-2
+Added Pin To Net: NetName=GND_USB Pin=C129-2
+Added Pin To Net: NetName=GND_USB Pin=C130-2
+Added Pin To Net: NetName=3.3V_USB Pin=C131-1
+Added Pin To Net: NetName=GND_USB Pin=C131-2
+Added Pin To Net: NetName=3.3V_USB Pin=C132-1
+Added Pin To Net: NetName=GND_USB Pin=C132-2
+Added Pin To Net: NetName=3.3V_USB Pin=C133-1
+Added Pin To Net: NetName=GND_USB Pin=C133-2
+Added Pin To Net: NetName=3.3V_USB Pin=C134-1
+Added Pin To Net: NetName=GND_USB Pin=C134-2
+Added Pin To Net: NetName=3.3V_USB Pin=C135-1
+Added Pin To Net: NetName=GND_USB Pin=C135-2
+Added Pin To Net: NetName=3.3V_USB Pin=C136-1
+Added Pin To Net: NetName=GND_USB Pin=C136-2
+Added Pin To Net: NetName=3.3V_USB Pin=C137-1
+Added Pin To Net: NetName=GND_USB Pin=C137-2
+Added Pin To Net: NetName=3.3V_USB Pin=C138-1
+Added Pin To Net: NetName=GND_USB Pin=C138-2
+Added Pin To Net: NetName=3.3V_USB Pin=C139-1
+Added Pin To Net: NetName=GND_USB Pin=C139-2
+Added Pin To Net: NetName=3.3V_USB Pin=C140-1
+Added Pin To Net: NetName=GND_USB Pin=C140-2
+Added Pin To Net: NetName=3.3V_USB Pin=C141-1
+Added Pin To Net: NetName=GND_USB Pin=C141-2
+Added Pin To Net: NetName=3.3V_USB Pin=C142-1
+Added Pin To Net: NetName=GND_USB Pin=C142-2
+Added Pin To Net: NetName=GND_USB Pin=C143-1
+Added Pin To Net: NetName=3.3V_USB Pin=C143-2
+Added Pin To Net: NetName=GND_USB Pin=C144-2
+Added Pin To Net: NetName=GND_USB Pin=D5-1
+Added Pin To Net: NetName=GND_USB Pin=D6-1
+Added Pin To Net: NetName=3.3V_USB Pin=FB2-1
+Added Pin To Net: NetName=GND_USB Pin=P6-3
+Added Pin To Net: NetName=GND_USB Pin=P6-5
+Added Pin To Net: NetName=GND_USB Pin=P6-9
+Added Pin To Net: NetName=3.3V Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=3.3V_USB Pin=R125-2
+Added Pin To Net: NetName=3.3V_USB Pin=R127-2
+Added Pin To Net: NetName=3.3V_USB Pin=R128-2
+Added Pin To Net: NetName=GND_USB Pin=R129-1
+Added Pin To Net: NetName=GND_USB Pin=R130-1
+Added Pin To Net: NetName=3.3V Pin=R139-1
+Added Pin To Net: NetName=3.3V Pin=R140-1
+Added Pin To Net: NetName=3.3V Pin=R146-1
+Added Pin To Net: NetName=3.3V Pin=R147-1
+Added Pin To Net: NetName=3.3V_USB Pin=R149-2
+Added Pin To Net: NetName=GND_USB Pin=SW2-3
+Added Pin To Net: NetName=GND_USB Pin=SW2-4
+Added Pin To Net: NetName=GND_USB Pin=U14-10
+Added Pin To Net: NetName=3.3V_USB Pin=U14-11
+Added Pin To Net: NetName=3.3V_USB Pin=U14-19
+Added Pin To Net: NetName=GND_USB Pin=U14-20
+Added Pin To Net: NetName=3.3V_USB Pin=U14-21
+Added Pin To Net: NetName=GND_USB Pin=U14-27
+Added Pin To Net: NetName=3.3V_USB Pin=U14-28
+Added Pin To Net: NetName=SPI_CS_WIFI_BLE Pin=U14-29
+Added Pin To Net: NetName=USB_ID Pin=U14-31
+Added Pin To Net: NetName=USB_RENUM Pin=U14-33
+Added Pin To Net: NetName=UART_RX_WIFI_BLE Pin=U14-38
+Added Pin To Net: NetName=UART_TX_WIFI_BLE Pin=U14-39
+Added Pin To Net: NetName=GND_USB Pin=U14-49
+Added Pin To Net: NetName=3.3V_USB Pin=U14-50
+Added Pin To Net: NetName=UART_RTS_WIFI_BLE Pin=U14-55
+Added Pin To Net: NetName=UART_CTS_WIFI_BLE Pin=U14-56
+Added Pin To Net: NetName=WIFI_BLE_ENABLE Pin=U14-63
+Added Pin To Net: NetName=NetJ4_2 Pin=U14-70
+Added Pin To Net: NetName=NetJ4_3 Pin=U14-71
+Added Pin To Net: NetName=GND_USB Pin=U14-74
+Added Pin To Net: NetName=3.3V_USB Pin=U14-75
+Added Pin To Net: NetName=SPI_SCLK_WIFI_BLE Pin=U14-78
+Added Pin To Net: NetName=SPI_MISO_WIFI_BLE Pin=U14-79
+Added Pin To Net: NetName=SPI_MOSI_WIFI_BLE Pin=U14-80
+Added Pin To Net: NetName=OUTPUT_BUS_USB0 Pin=U14-81
+Added Pin To Net: NetName=OUTPUT_BUS_USB1 Pin=U14-82
+Added Pin To Net: NetName=OUTPUT_BUS_USB0 Pin=U14-83
+Added Pin To Net: NetName=OUTPUT_BUS_USB2 Pin=U14-85
+Added Pin To Net: NetName=OUTPUT_BUS_USB3 Pin=U14-86
+Added Pin To Net: NetName=INPUT_BUS_USB0 Pin=U14-97
+Added Pin To Net: NetName=INPUT_BUS_USB1 Pin=U14-98
+Added Pin To Net: NetName=GND_USB Pin=U14-99
+Added Pin To Net: NetName=3.3V_USB Pin=U14-100
+Added Pin To Net: NetName=GND_USB Pin=U16-2
+Added Pin To Net: NetName=GND_EXT Pin=U43-1
+Added Pin To Net: NetName=5V_ANALOG Pin=U43-2
+Added Pin To Net: NetName=GND_EXT Pin=U43-3
+Added Pin To Net: NetName=GND_EXT Pin=U43-4
+Added Pin To Net: NetName=GND_EXT Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND_EXT Pin=U43-7
+Added Pin To Net: NetName=FMPI2C1_SCL Pin=R146-2
+Added Pin To Net: NetName=FMPI2C1_SCL Pin=U14-61
+Added Net: Name=FMPI2C1_SCL
+Added Pin To Net: NetName=FMPI2C1_SDA Pin=R147-2
+Added Pin To Net: NetName=FMPI2C1_SDA Pin=U14-62
+Added Net: Name=FMPI2C1_SDA
+Added Pin To Net: NetName=I2C3_SCL Pin=R139-2
+Added Pin To Net: NetName=I2C3_SCL Pin=U14-67
+Added Pin To Net: NetName=I2C3_SCL Pin=U19-3
+Added Net: Name=I2C3_SCL
+Added Pin To Net: NetName=I2C3_SDA Pin=R140-2
+Added Pin To Net: NetName=I2C3_SDA Pin=U14-66
+Added Pin To Net: NetName=I2C3_SDA Pin=U19-2
+Added Net: Name=I2C3_SDA
+Added Pin To Net: NetName=INPUT_BUS_USB2 Pin=U14-2
+Added Net: Name=INPUT_BUS_USB2
+Added Pin To Net: NetName=INPUT_BUS_USB3 Pin=U14-3
+Added Net: Name=INPUT_BUS_USB3
+Added Pin To Net: NetName=INPUT_BUS_USB4 Pin=U14-4
+Added Net: Name=INPUT_BUS_USB4
+Added Pin To Net: NetName=INPUT_BUS_USB5 Pin=U14-5
+Added Net: Name=INPUT_BUS_USB5
+Added Pin To Net: NetName=LED0 Pin=R121-1
+Added Pin To Net: NetName=LED0 Pin=U14-93
+Added Net: Name=LED0
+Added Pin To Net: NetName=LED1 Pin=R124-1
+Added Pin To Net: NetName=LED1 Pin=U14-54
+Added Net: Name=LED1
+Added Pin To Net: NetName=NetC125_1 Pin=C125-1
+Added Pin To Net: NetName=NetC125_1 Pin=R122-2
+Added Pin To Net: NetName=NetC125_1 Pin=X4-1
+Added Net: Name=NetC125_1
+Added Pin To Net: NetName=NetC126_1 Pin=C126-1
+Added Pin To Net: NetName=NetC126_1 Pin=R123-2
+Added Pin To Net: NetName=NetC126_1 Pin=X4-2
+Added Net: Name=NetC126_1
+Added Pin To Net: NetName=NetC127_1 Pin=C127-1
+Added Pin To Net: NetName=NetC127_1 Pin=SW2-1
+Added Net: Name=NetC127_1
+Added Pin To Net: NetName=NetC128_1 Pin=C128-1
+Added Pin To Net: NetName=NetC128_1 Pin=U14-48
+Added Net: Name=NetC128_1
+Added Pin To Net: NetName=NetC129_1 Pin=C129-1
+Added Pin To Net: NetName=NetC129_1 Pin=U14-73
+Added Net: Name=NetC129_1
+Added Pin To Net: NetName=NetC130_1 Pin=C130-1
+Added Pin To Net: NetName=NetC130_1 Pin=R149-1
+Added Pin To Net: NetName=NetC130_1 Pin=U14-6
+Added Net: Name=NetC130_1
+Added Pin To Net: NetName=NetC144_1 Pin=C144-1
+Added Pin To Net: NetName=NetC144_1 Pin=FB2-2
+Added Pin To Net: NetName=NetC144_1 Pin=U14-22
+Added Net: Name=NetC144_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R121-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R124-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R125-1
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetU14_23 Pin=U14-23
+Added Net: Name=NetU14_23
+Added Pin To Net: NetName=NetU14_24 Pin=U14-24
+Added Net: Name=NetU14_24
+Added Pin To Net: NetName=NetU14_40 Pin=U14-40
+Added Pin To Net: NetName=NetU14_40 Pin=U20-9
+Added Net: Name=NetU14_40
+Added Pin To Net: NetName=NetU14_42 Pin=U14-42
+Added Pin To Net: NetName=NetU14_42 Pin=U20-6
+Added Net: Name=NetU14_42
+Added Pin To Net: NetName=NetU14_43 Pin=U14-43
+Added Pin To Net: NetName=NetU14_43 Pin=U20-3
+Added Net: Name=NetU14_43
+Added Pin To Net: NetName=NetU14_44 Pin=U14-44
+Added Pin To Net: NetName=NetU14_44 Pin=U20-5
+Added Net: Name=NetU14_44
+Added Pin To Net: NetName=NetU14_45 Pin=U14-45
+Added Pin To Net: NetName=NetU14_45 Pin=U20-4
+Added Net: Name=NetU14_45
+Added Pin To Net: NetName=NetU14_95 Pin=U14-95
+Added Pin To Net: NetName=NetU14_95 Pin=U20-7
+Added Net: Name=NetU14_95
+Added Pin To Net: NetName=NetU14_96 Pin=U14-96
+Added Pin To Net: NetName=NetU14_96 Pin=U20-8
+Added Net: Name=NetU14_96
+Added Pin To Net: NetName=OUTPUT_BUS_USB4 Pin=U14-87
+Added Net: Name=OUTPUT_BUS_USB4
+Added Pin To Net: NetName=OUTPUT_BUS_USB5 Pin=U14-88
+Added Net: Name=OUTPUT_BUS_USB5
+Added Pin To Net: NetName=PC14_32 Pin=R123-1
+Added Pin To Net: NetName=PC14_32 Pin=U14-8
+Added Net: Name=PC14_32
+Added Pin To Net: NetName=PC15_32 Pin=R122-1
+Added Pin To Net: NetName=PC15_32 Pin=U14-9
+Added Net: Name=PC15_32
+Added Pin To Net: NetName=PH0_8 Pin=C123-1
+Added Pin To Net: NetName=PH0_8 Pin=U14-12
+Added Pin To Net: NetName=PH0_8 Pin=X3-1
+Added Net: Name=PH0_8
+Added Pin To Net: NetName=PH1_8 Pin=C124-1
+Added Pin To Net: NetName=PH1_8 Pin=U14-13
+Added Pin To Net: NetName=PH1_8 Pin=X3-2
+Added Net: Name=PH1_8
+Added Pin To Net: NetName=USBMCU_BOOT0 Pin=R127-1
+Added Pin To Net: NetName=USBMCU_BOOT0 Pin=R129-2
+Added Pin To Net: NetName=USBMCU_BOOT0 Pin=U14-94
+Added Net: Name=USBMCU_BOOT0
+Added Pin To Net: NetName=USBMCU_NRST Pin=P6-10
+Added Pin To Net: NetName=USBMCU_NRST Pin=U14-14
+Added Pin To Net: NetName=USBMCU_NRST Pin=U16-1
+Added Net: Name=USBMCU_NRST
+Added Pin To Net: NetName=USBMCU_SWO Pin=P6-6
+Added Pin To Net: NetName=USBMCU_SWO Pin=U14-89
+Added Pin To Net: NetName=USBMCU_SWO Pin=U16-3
+Added Net: Name=USBMCU_SWO
+Added Pin To Net: NetName=USBMCU_TCK/SWCLK Pin=P6-4
+Added Pin To Net: NetName=USBMCU_TCK/SWCLK Pin=U14-76
+Added Pin To Net: NetName=USBMCU_TCK/SWCLK Pin=U16-4
+Added Net: Name=USBMCU_TCK/SWCLK
+Added Pin To Net: NetName=USBMCU_TDI Pin=P6-8
+Added Pin To Net: NetName=USBMCU_TDI Pin=U14-77
+Added Net: Name=USBMCU_TDI
+Added Pin To Net: NetName=USBMCU_TMS/SWDIO Pin=P6-2
+Added Pin To Net: NetName=USBMCU_TMS/SWDIO Pin=U14-72
+Added Pin To Net: NetName=USBMCU_TMS/SWDIO Pin=U16-5
+Added Net: Name=USBMCU_TMS/SWDIO
+Added Pin To Net: NetName=USBMCU_TRST Pin=U14-90
+Added Net: Name=USBMCU_TRST
+Added Class: Name=MCU_USB
+Added Class: Name=INPUT_BUS_USB[0..1]
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402
+Added Member To Class: ClassName=OUTPUT_BUS_USB[0..3] Member=Element[4]: OUTPUT_BUS_USB
+Added Member To Class: ClassName=OUTPUT_BUS_USB[0..3] Member=Element[5]: OUTPUT_BUS_USB
+Added Room: Name=MCU_USB
