@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VIO_ADC1 Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=GND_EXT Pin=U43-1
+Removed Pin From Net: NetName=AVDD_ADC1 Pin=U43-2
+Removed Pin From Net: NetName=GND_EXT Pin=U43-3
+Removed Pin From Net: NetName=GND_EXT Pin=U43-4
+Removed Pin From Net: NetName=GND_EXT Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND_EXT Pin=U43-7
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Pin To Net: NetName=VIO_ADC1 Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=GND_EXT Pin=U43-1
+Added Pin To Net: NetName=AVDD_ADC1 Pin=U43-2
+Added Pin To Net: NetName=GND_EXT Pin=U43-3
+Added Pin To Net: NetName=GND_EXT Pin=U43-4
+Added Pin To Net: NetName=GND_EXT Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND_EXT Pin=U43-7
+Change Net Name : Old Net Name=AVDD_ADC1 New Net Name=5V_ANALOG
+Change Net Name : Old Net Name=DVDD_ADC1 New Net Name=5V
+Change Net Name : Old Net Name=VDDH_ADC1 New Net Name=15V
+Change Net Name : Old Net Name=VIO_ADC1 New Net Name=3.3V
+Change Net Name : Old Net Name=VSSH_ADC1 New Net Name=-15V
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402

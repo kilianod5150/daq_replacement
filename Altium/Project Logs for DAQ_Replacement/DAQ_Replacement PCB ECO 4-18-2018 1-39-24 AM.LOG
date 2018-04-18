@@ -1,0 +1,318 @@
+Removed Pin From Net: NetName=VSSH_ADC1 Pin=C44-2
+Removed Pin From Net: NetName=+15V Pin=C48-1
+Removed Pin From Net: NetName=GND_EXT Pin=C55-2
+Removed Pin From Net: NetName=GND_EXT Pin=C56-1
+Removed Pin From Net: NetName=GND_EXT Pin=C57-2
+Removed Pin From Net: NetName=GND_EXT Pin=C58-2
+Removed Pin From Net: NetName=GND_EXT Pin=C59-1
+Removed Pin From Net: NetName=GND_USB Pin=C123-2
+Removed Pin From Net: NetName=GND_USB Pin=C124-2
+Removed Pin From Net: NetName=GND_USB Pin=C125-2
+Removed Pin From Net: NetName=GND_USB Pin=C126-2
+Removed Pin From Net: NetName=GND_USB Pin=C127-2
+Removed Pin From Net: NetName=GND_USB Pin=C128-2
+Removed Pin From Net: NetName=GND_USB Pin=C129-2
+Removed Pin From Net: NetName=GND_USB Pin=C130-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C131-1
+Removed Pin From Net: NetName=GND_USB Pin=C131-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C132-1
+Removed Pin From Net: NetName=GND_USB Pin=C132-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C133-1
+Removed Pin From Net: NetName=GND_USB Pin=C133-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C134-1
+Removed Pin From Net: NetName=GND_USB Pin=C134-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C135-1
+Removed Pin From Net: NetName=GND_USB Pin=C135-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C136-1
+Removed Pin From Net: NetName=GND_USB Pin=C136-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C137-1
+Removed Pin From Net: NetName=GND_USB Pin=C137-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C138-1
+Removed Pin From Net: NetName=GND_USB Pin=C138-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C139-1
+Removed Pin From Net: NetName=GND_USB Pin=C139-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C140-1
+Removed Pin From Net: NetName=GND_USB Pin=C140-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C141-1
+Removed Pin From Net: NetName=GND_USB Pin=C141-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C142-1
+Removed Pin From Net: NetName=GND_USB Pin=C142-2
+Removed Pin From Net: NetName=GND_USB Pin=C143-1
+Removed Pin From Net: NetName=3.3V_USB Pin=C143-2
+Removed Pin From Net: NetName=GND_USB Pin=C144-2
+Removed Pin From Net: NetName=VIO_ADC1 Pin=C157-1
+Removed Pin From Net: NetName=GND_EXT Pin=C157-2
+Removed Pin From Net: NetName=3.3V_USB Pin=C158-1
+Removed Pin From Net: NetName=GND_USB Pin=C158-2
+Removed Pin From Net: NetName=DVDD_ADC1 Pin=C212-1
+Removed Pin From Net: NetName=GND_USB Pin=D5-1
+Removed Pin From Net: NetName=GND_USB Pin=D6-1
+Removed Pin From Net: NetName=3.3V_USB Pin=FB2-1
+Removed Pin From Net: NetName=VSSH_ADC1 Pin=L2-2
+Removed Pin From Net: NetName=+15V Pin=L4-2
+Removed Pin From Net: NetName=GND_USB Pin=P6-3
+Removed Pin From Net: NetName=GND_USB Pin=P6-5
+Removed Pin From Net: NetName=GND_USB Pin=P6-9
+Removed Pin From Net: NetName=GND_EXT Pin=Q2-5
+Removed Pin From Net: NetName=VDD_INAMP_TR Pin=R51-2
+Removed Pin From Net: NetName=VDD_AMP_TR Pin=R53-2
+Removed Pin From Net: NetName=OUTPUT0 Pin=R56-2
+Removed Pin From Net: NetName=GND_EXT Pin=R57-1
+Removed Pin From Net: NetName=VSS_INAMP_TR Pin=R60-2
+Removed Pin From Net: NetName=VSS_AMP_TR Pin=R61-2
+Removed Pin From Net: NetName=VIO_ADC1 Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=3.3V_USB Pin=R125-2
+Removed Pin From Net: NetName=3.3V_USB Pin=R127-2
+Removed Pin From Net: NetName=3.3V_USB Pin=R128-2
+Removed Pin From Net: NetName=GND_USB Pin=R129-1
+Removed Pin From Net: NetName=GND_USB Pin=R130-1
+Removed Pin From Net: NetName=VIO_ADC1 Pin=R139-1
+Removed Pin From Net: NetName=VIO_ADC1 Pin=R140-1
+Removed Pin From Net: NetName=VIO_ADC1 Pin=R146-1
+Removed Pin From Net: NetName=VIO_ADC1 Pin=R147-1
+Removed Pin From Net: NetName=3.3V_USB Pin=R149-2
+Removed Pin From Net: NetName=DVDD_ADC1 Pin=R187-1
+Removed Pin From Net: NetName=AVDD_ADC1 Pin=R187-2
+Removed Pin From Net: NetName=GND_USB Pin=SW2-3
+Removed Pin From Net: NetName=GND_USB Pin=SW2-4
+Removed Pin From Net: NetName=GND_USB Pin=U14-10
+Removed Pin From Net: NetName=3.3V_USB Pin=U14-11
+Removed Pin From Net: NetName=3.3V_USB Pin=U14-19
+Removed Pin From Net: NetName=GND_USB Pin=U14-20
+Removed Pin From Net: NetName=3.3V_USB Pin=U14-21
+Removed Pin From Net: NetName=GND_USB Pin=U14-27
+Removed Pin From Net: NetName=3.3V_USB Pin=U14-28
+Removed Pin From Net: NetName=SPI_CS_WIFI_BLE Pin=U14-29
+Removed Pin From Net: NetName=USB_ID Pin=U14-31
+Removed Pin From Net: NetName=UART_RX_WIFI_BLE Pin=U14-38
+Removed Pin From Net: NetName=UART_TX_WIFI_BLE Pin=U14-39
+Removed Pin From Net: NetName=GND_USB Pin=U14-49
+Removed Pin From Net: NetName=3.3V_USB Pin=U14-50
+Removed Pin From Net: NetName=UART_RTS_WIFI_BLE Pin=U14-55
+Removed Pin From Net: NetName=UART_CTS_WIFI_BLE Pin=U14-56
+Removed Pin From Net: NetName=WIFI_BLE_ENABLE Pin=U14-63
+Removed Pin From Net: NetName=NetJ4_2 Pin=U14-70
+Removed Pin From Net: NetName=NetJ4_3 Pin=U14-71
+Removed Pin From Net: NetName=GND_USB Pin=U14-74
+Removed Pin From Net: NetName=3.3V_USB Pin=U14-75
+Removed Pin From Net: NetName=SPI_SCLK_WIFI_BLE Pin=U14-78
+Removed Pin From Net: NetName=SPI_MISO_WIFI_BLE Pin=U14-79
+Removed Pin From Net: NetName=SPI_MOSI_WIFI_BLE Pin=U14-80
+Removed Pin From Net: NetName=OUTPUT_BUS_USB0 Pin=U14-81
+Removed Pin From Net: NetName=OUTPUT_BUS_USB1 Pin=U14-82
+Removed Pin From Net: NetName=OUTPUT_BUS_USB0 Pin=U14-83
+Removed Pin From Net: NetName=OUTPUT_BUS_USB2 Pin=U14-85
+Removed Pin From Net: NetName=OUTPUT_BUS_USB3 Pin=U14-86
+Removed Pin From Net: NetName=INPUT_BUS_USB0 Pin=U14-97
+Removed Pin From Net: NetName=INPUT_BUS_USB1 Pin=U14-98
+Removed Pin From Net: NetName=GND_USB Pin=U14-99
+Removed Pin From Net: NetName=3.3V_USB Pin=U14-100
+Removed Pin From Net: NetName=GND_USB Pin=U16-2
+Removed Pin From Net: NetName=VIO_ADC1 Pin=U21-1
+Removed Pin From Net: NetName=INPUT0 Pin=U21-2
+Removed Pin From Net: NetName=INPUT1 Pin=U21-3
+Removed Pin From Net: NetName=GND_EXT Pin=U21-8
+Removed Pin From Net: NetName=GND_USB Pin=U21-9
+Removed Pin From Net: NetName=INPUT_BUS_USB1 Pin=U21-14
+Removed Pin From Net: NetName=INPUT_BUS_USB0 Pin=U21-15
+Removed Pin From Net: NetName=3.3V_USB Pin=U21-16
+Removed Pin From Net: NetName=3.3V_USB Pin=U22-1
+Removed Pin From Net: NetName=OUTPUT_BUS_USB0 Pin=U22-2
+Removed Pin From Net: NetName=OUTPUT_BUS_USB1 Pin=U22-3
+Removed Pin From Net: NetName=OUTPUT_BUS_USB2 Pin=U22-4
+Removed Pin From Net: NetName=OUTPUT_BUS_USB3 Pin=U22-5
+Removed Pin From Net: NetName=GND_USB Pin=U22-8
+Removed Pin From Net: NetName=GND_EXT Pin=U22-9
+Removed Pin From Net: NetName=OUTPUT3 Pin=U22-12
+Removed Pin From Net: NetName=OUTPUT2 Pin=U22-13
+Removed Pin From Net: NetName=OUTPUT1 Pin=U22-14
+Removed Pin From Net: NetName=OUTPUT0 Pin=U22-15
+Removed Pin From Net: NetName=NetC160_1 Pin=U22-16
+Removed Pin From Net: NetName=NetC216_1 Pin=U31-3
+Removed Pin From Net: NetName=DVDD_ADC1 Pin=U32-4
+Removed Pin From Net: NetName=DVDD_ADC1 Pin=U32-6
+Removed Pin From Net: NetName=GND_EXT Pin=U43-1
+Removed Pin From Net: NetName=AVDD_ADC1 Pin=U43-2
+Removed Pin From Net: NetName=GND_EXT Pin=U43-3
+Removed Pin From Net: NetName=GND_EXT Pin=U43-4
+Removed Pin From Net: NetName=GND_EXT Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND_EXT Pin=U43-7
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=C55
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=C56
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=C57
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=C58
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=C59
+Removed Member From Class: ClassName=OPTO_ISOLATION Member=C157
+Removed Member From Class: ClassName=OPTO_ISOLATION Member=C158
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=Q1
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=Q2
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R49
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R51
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R53
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R54
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R55
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R56
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R57
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R58
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R59
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R60
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R61
+Removed Member From Class: ClassName=BIPOLAR_PSU Member=R63
+Removed Member From Class: ClassName=PSU_DAQ_MCU Member=R187
+Removed Member From Class: ClassName=OPTO_ISOLATION Member=U21
+Removed Member From Class: ClassName=OPTO_ISOLATION Member=U22
+Removed Member From Class: ClassName=INPUT_BUS_USB[0..5] Member=INPUT_BUS_USB3
+Removed Member From Class: ClassName=INPUT_BUS_USB[0..5] Member=INPUT_BUS_USB4
+Removed Member From Class: ClassName=INPUT_BUS_USB[0..5] Member=INPUT_BUS_USB5
+Removed Member From Class: ClassName=OUTPUT[0..5] Member=OUTPUT4
+Removed Member From Class: ClassName=OUTPUT[0..5] Member=OUTPUT5
+Removed Member From Class: ClassName=OUTPUT_BUS_USB[0..5] Member=OUTPUT_BUS_USB4
+Removed Member From Class: ClassName=OUTPUT_BUS_USB[0..5] Member=OUTPUT_BUS_USB5
+Added Component: Designator=C37(0603)
+Added Component: Designator=C38(CAPC0402(1005)60_L)
+Added Component: Designator=C39(CAPC0402(1005)60_L)
+Added Component: Designator=C40(0603)
+Added Component: Designator=C41(C1206)
+Added Component: Designator=C45(0603)
+Added Component: Designator=C50(0603)
+Added Component: Designator=C51(0603)
+Added Component: Designator=C52(C1206)
+Added Component: Designator=C54(0603)
+Added Component: Designator=R37(0603)
+Added Component: Designator=R39(0603)
+Added Component: Designator=R46(0603)
+Added Component: Designator=R47(0603)
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=U2(DGN-8)
+Added Component: Designator=U3(SLAB-SOIC-16-NB_L)
+Added Component: Designator=U4(DGN-8)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Pin To Net: NetName=VSSH_ADC1 Pin=C37-2
+Added Pin To Net: NetName=GND_EXT Pin=C38-1
+Added Pin To Net: NetName=VSSH_ADC1 Pin=C38-2
+Added Pin To Net: NetName=GND_EXT Pin=C39-1
+Added Pin To Net: NetName=+15V Pin=C39-2
+Added Pin To Net: NetName=GND_EXT Pin=C40-1
+Added Pin To Net: NetName=GND_EXT Pin=C41-1
+Added Pin To Net: NetName=VSSH_ADC1 Pin=C41-2
+Added Pin To Net: NetName=GND_EXT Pin=C45-1
+Added Pin To Net: NetName=+15V Pin=C50-2
+Added Pin To Net: NetName=GND_EXT Pin=C51-1
+Added Pin To Net: NetName=GND_EXT Pin=C52-1
+Added Pin To Net: NetName=+15V Pin=C52-2
+Added Pin To Net: NetName=GND_EXT Pin=C54-1
+Added Pin To Net: NetName=VDD15_TR Pin=C212-1
+Added Pin To Net: NetName=VSS_AMP_TR Pin=L2-1
+Added Pin To Net: NetName=VDD_AMP_TR Pin=L4-1
+Added Pin To Net: NetName=5V_RAW Pin=P3-7
+Added Pin To Net: NetName=5V_RAW Pin=P3-8
+Added Pin To Net: NetName=VSSH_ADC1 Pin=R37-2
+Added Pin To Net: NetName=GND_EXT Pin=R39-1
+Added Pin To Net: NetName=+15V Pin=R46-2
+Added Pin To Net: NetName=GND_EXT Pin=R47-1
+Added Pin To Net: NetName=VIO_ADC1 Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=5V_RAW Pin=R150-2
+Added Pin To Net: NetName=VSSH_ADC1 Pin=U2-1
+Added Pin To Net: NetName=GND_EXT Pin=U2-4
+Added Pin To Net: NetName=OUTPUT0 Pin=U2-5
+Added Pin To Net: NetName=GND_EXT Pin=U2-9
+Added Pin To Net: NetName=3.3V_USB Pin=U3-1
+Added Pin To Net: NetName=OUTPUT_BUS_USB0 Pin=U3-2
+Added Pin To Net: NetName=OUTPUT_BUS_USB1 Pin=U3-3
+Added Pin To Net: NetName=OUTPUT_BUS_USB2 Pin=U3-4
+Added Pin To Net: NetName=OUTPUT_BUS_USB3 Pin=U3-5
+Added Pin To Net: NetName=INPUT_BUS_USB0 Pin=U3-6
+Added Pin To Net: NetName=INPUT_BUS_USB1 Pin=U3-7
+Added Pin To Net: NetName=GND_USB Pin=U3-8
+Added Pin To Net: NetName=GND_EXT Pin=U3-9
+Added Pin To Net: NetName=INPUT1 Pin=U3-10
+Added Pin To Net: NetName=INPUT0 Pin=U3-11
+Added Pin To Net: NetName=OUTPUT3 Pin=U3-12
+Added Pin To Net: NetName=OUTPUT2 Pin=U3-13
+Added Pin To Net: NetName=OUTPUT1 Pin=U3-14
+Added Pin To Net: NetName=OUTPUT0 Pin=U3-15
+Added Pin To Net: NetName=NetC160_1 Pin=U3-16
+Added Pin To Net: NetName=+15V Pin=U4-1
+Added Pin To Net: NetName=GND_EXT Pin=U4-4
+Added Pin To Net: NetName=OUTPUT0 Pin=U4-5
+Added Pin To Net: NetName=GND_EXT Pin=U4-9
+Added Pin To Net: NetName=OUTPUT0 Pin=U31-3
+Added Pin To Net: NetName=NetC216_1 Pin=U32-4
+Added Pin To Net: NetName=VDD15_TR Pin=U32-6
+Added Pin To Net: NetName=GND_EXT Pin=U43-1
+Added Pin To Net: NetName=AVDD_ADC1 Pin=U43-2
+Added Pin To Net: NetName=GND_EXT Pin=U43-3
+Added Pin To Net: NetName=GND_EXT Pin=U43-4
+Added Pin To Net: NetName=GND_EXT Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND_EXT Pin=U43-7
+Change Net Name : Old Net Name=5V_RAW New Net Name=VDD5_TR
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=R37-1
+Added Pin To Net: NetName=NetC37_1 Pin=R39-2
+Added Pin To Net: NetName=NetC37_1 Pin=U2-2
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=C44-2
+Added Pin To Net: NetName=NetC40_2 Pin=L2-2
+Added Pin To Net: NetName=NetC40_2 Pin=U2-8
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=U2-6
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=C51-2
+Added Pin To Net: NetName=NetC48_1 Pin=L4-2
+Added Pin To Net: NetName=NetC48_1 Pin=U4-8
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC50_1 Pin=C50-1
+Added Pin To Net: NetName=NetC50_1 Pin=R46-1
+Added Pin To Net: NetName=NetC50_1 Pin=R47-2
+Added Pin To Net: NetName=NetC50_1 Pin=U4-2
+Added Net: Name=NetC50_1
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=NetC54_2 Pin=U4-6
+Added Net: Name=NetC54_2
+Added Pin To Net: NetName=NetU19_2 Pin=U19-2
+Added Net: Name=NetU19_2
+Added Pin To Net: NetName=NetU19_3 Pin=U19-3
+Added Net: Name=NetU19_3
+Added Pin To Net: NetName=NetU20_3 Pin=U20-3
+Added Net: Name=NetU20_3
+Added Pin To Net: NetName=NetU20_4 Pin=U20-4
+Added Net: Name=NetU20_4
+Added Pin To Net: NetName=NetU20_5 Pin=U20-5
+Added Net: Name=NetU20_5
+Added Pin To Net: NetName=NetU20_6 Pin=U20-6
+Added Net: Name=NetU20_6
+Added Pin To Net: NetName=NetU20_7 Pin=U20-7
+Added Net: Name=NetU20_7
+Added Pin To Net: NetName=NetU20_8 Pin=U20-8
+Added Net: Name=NetU20_8
+Added Pin To Net: NetName=NetU20_9 Pin=U20-9
+Added Net: Name=NetU20_9
+Change Class Name : Old Net Name=INPUT_BUS_USB[0..5] New Net Name=INPUT_BUS_USB[0..2]
+Change Class Name : Old Net Name=OUTPUT[0..5] New Net Name=OUTPUT[0..3]
+Change Class Name : Old Net Name=OUTPUT_BUS_USB[0..5] New Net Name=OUTPUT_BUS_USB[0..3]
+Added Class: Name=INPUT[0..1]
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C37 10nF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C38 CAP0402
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C39 CAP0402
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C40 1uF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C41 10uF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C45 10nF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C50 10nF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C51 1uF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C52 10uF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component C54 10nF
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component R37 R_0603_118k_50V_100mW
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component R39 R_0603_10k_50V_100mW
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component R46 R_0603_118k_50V_100mW
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component R47 R_0603_10k_50V_100mW
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component U2 TPS7A30XXDGN
+Added Member To Class: ClassName=OPTO_ISOLATION Member=Component U3 Si8662BC-B-IS1
+Added Member To Class: ClassName=BIPOLAR_PSU Member=Component U4 TPS7A49XXDGN
