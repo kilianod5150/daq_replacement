@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=3.3V Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=3.3V Pin=R139-1
+Removed Pin From Net: NetName=I2C3_SCL Pin=R139-2
+Removed Pin From Net: NetName=3.3V Pin=R140-1
+Removed Pin From Net: NetName=I2C3_SDA Pin=R140-2
+Removed Pin From Net: NetName=3.3V Pin=R146-1
+Removed Pin From Net: NetName=FMPI2C1_SCL Pin=R146-2
+Removed Pin From Net: NetName=3.3V Pin=R147-1
+Removed Pin From Net: NetName=FMPI2C1_SDA Pin=R147-2
+Removed Pin From Net: NetName=GND Pin=U43-1
+Removed Pin From Net: NetName=5V_ANALOG Pin=U43-2
+Removed Pin From Net: NetName=GND Pin=U43-3
+Removed Pin From Net: NetName=GND Pin=U43-4
+Removed Pin From Net: NetName=GND Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND Pin=U43-7
+Removed Member From Class: ClassName=MCU_USB Member=R146
+Removed Member From Class: ClassName=MCU_USB Member=R147
+Change Component DesignItemId : Designator=R139 Old DesignItemId=res1 New DesignItemId=CMP-1591-00004-1
+Change Component DesignItemId : Designator=R140 Old DesignItemId=res1 New DesignItemId=CMP-1591-00004-1
+Change Component Footprint: Designator=R139 Old Footprint=0603R New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R140 Old Footprint=0603R New Footprint=RESC0402(1005)_L
+Change Component Comment : Designator=R139 Old Comment=10K New Comment=RES0402
+Change Component Comment : Designator=R140 Old Comment=10K New Comment=RES0402
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Pin To Net: NetName=3.3V Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=I2C3_SDA Pin=R139-1
+Added Pin To Net: NetName=3.3V Pin=R139-2
+Added Pin To Net: NetName=I2C3_SCL Pin=R140-1
+Added Pin To Net: NetName=3.3V Pin=R140-2
+Added Pin To Net: NetName=GND Pin=U43-1
+Added Pin To Net: NetName=5V_ANALOG Pin=U43-2
+Added Pin To Net: NetName=GND Pin=U43-3
+Added Pin To Net: NetName=GND Pin=U43-4
+Added Pin To Net: NetName=GND Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND Pin=U43-7
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402

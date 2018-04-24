@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=C17_ADC1-1
+Removed Pin From Net: NetName=GND Pin=C17_ADC2-1
+Removed Pin From Net: NetName=GND Pin=C18_ADC1-2
+Removed Pin From Net: NetName=GND Pin=C18_ADC2-2
+Removed Pin From Net: NetName=REF_ADC2 Pin=R17_ADC2-1
+Removed Pin From Net: NetName=GND Pin=R18_ADC1-1
+Removed Pin From Net: NetName=GND Pin=R18_ADC2-1
+Removed Pin From Net: NetName=3.3V Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=GND Pin=U43-1
+Removed Pin From Net: NetName=5V_ANALOG Pin=U43-2
+Removed Pin From Net: NetName=GND Pin=U43-3
+Removed Pin From Net: NetName=GND Pin=U43-4
+Removed Pin From Net: NetName=GND Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND Pin=U43-7
+Removed Member From Class: ClassName=ADC1 Member=C17_ADC1
+Removed Member From Class: ClassName=ADC2 Member=C17_ADC2
+Removed Member From Class: ClassName=ADC1 Member=C18_ADC1
+Removed Member From Class: ClassName=ADC2 Member=C18_ADC2
+Removed Member From Class: ClassName=ADC1 Member=R17_ADC1
+Removed Member From Class: ClassName=ADC2 Member=R17_ADC2
+Removed Member From Class: ClassName=ADC1 Member=R18_ADC1
+Removed Member From Class: ClassName=ADC2 Member=R18_ADC2
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Pin To Net: NetName=REF_ADC2 Pin=C13_ADC1-2
+Added Pin To Net: NetName=REF_ADC2 Pin=C14_ADC1-1
+Added Pin To Net: NetName=REF_ADC2 Pin=C15_ADC1-2
+Added Pin To Net: NetName=REF_ADC2 Pin=C16_ADC1-1
+Added Pin To Net: NetName=REF_ADC2 Pin=C253-1
+Added Pin To Net: NetName=REF_ADC2 Pin=R65-2
+Added Pin To Net: NetName=REF_ADC2 Pin=R70-1
+Added Pin To Net: NetName=3.3V Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=REF_ADC2 Pin=R253-1
+Added Pin To Net: NetName=GND Pin=U1_ADC1-32
+Added Pin To Net: NetName=REF_ADC2 Pin=U1_ADC1-33
+Added Pin To Net: NetName=REF_ADC2 Pin=U1_ADC1-34
+Added Pin To Net: NetName=GND Pin=U1_ADC2-32
+Added Pin To Net: NetName=REF_ADC2 Pin=U42-1
+Added Pin To Net: NetName=GND Pin=U43-1
+Added Pin To Net: NetName=5V_ANALOG Pin=U43-2
+Added Pin To Net: NetName=GND Pin=U43-3
+Added Pin To Net: NetName=GND Pin=U43-4
+Added Pin To Net: NetName=GND Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND Pin=U43-7
+Change Net Name : Old Net Name=REF_ADC2 New Net Name=V_REF_4.096
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402

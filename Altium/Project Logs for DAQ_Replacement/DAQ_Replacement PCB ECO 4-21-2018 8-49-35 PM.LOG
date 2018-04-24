@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3.3V Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=GND Pin=U43-1
+Removed Pin From Net: NetName=5V_ANALOG Pin=U43-2
+Removed Pin From Net: NetName=GND Pin=U43-3
+Removed Pin From Net: NetName=GND Pin=U43-4
+Removed Pin From Net: NetName=GND Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND Pin=U43-7
+Change Component DesignItemId : Designator=R185 Old DesignItemId=CMP-1018-00001-1 New DesignItemId=CMP-1591-00006-1
+Change Component DesignItemId : Designator=R186 Old DesignItemId=CMP-1018-00001-1 New DesignItemId=CMP-1591-00006-1
+Change Component DesignItemId : Designator=C205 Old DesignItemId=CMP-1590-00009-1 New DesignItemId=CMP-1590-00006-1
+Change Component Footprint: Designator=C205 Old Footprint=CAPC2220(5750)230_L New Footprint=CAPC1808(4520)175_L
+Change Component Footprint: Designator=R185 Old Footprint=RESC2512(6432)_L New Footprint=RESC2010(5025)_L
+Change Component Footprint: Designator=R186 Old Footprint=RESC2512(6432)_L New Footprint=RESC2010(5025)_L
+Change Component Footprint: Designator=U3 Old Footprint=SLAB-SOIC-16-NB_L New Footprint=SLAB-SOIC-16-NB_N
+Change Component Comment : Designator=C205 Old Comment=CAP2220 New Comment=CAP1808
+Change Component Comment : Designator=R185 Old Comment=Jumper 2512(6432) New Comment=RES2010
+Change Component Comment : Designator=R186 Old Comment=Jumper 2512(6432) New Comment=RES2010
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Pin To Net: NetName=3.3V Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=GND Pin=U43-1
+Added Pin To Net: NetName=5V_ANALOG Pin=U43-2
+Added Pin To Net: NetName=GND Pin=U43-3
+Added Pin To Net: NetName=GND Pin=U43-4
+Added Pin To Net: NetName=GND Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND Pin=U43-7
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402
