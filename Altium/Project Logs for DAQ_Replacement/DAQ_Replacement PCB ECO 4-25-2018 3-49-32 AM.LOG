@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=3.3V Pin=R94-1
+Removed Pin From Net: NetName=NetC92_2 Pin=R94-2
+Removed Pin From Net: NetName=GND Pin=U43-1
+Removed Pin From Net: NetName=5V_ANALOG Pin=U43-2
+Removed Pin From Net: NetName=GND Pin=U43-3
+Removed Pin From Net: NetName=GND Pin=U43-4
+Removed Pin From Net: NetName=GND Pin=U43-5
+Removed Pin From Net: NetName=NetC254_1 Pin=U43-6
+Removed Pin From Net: NetName=GND Pin=U43-7
+Added Component: Designator=R94(RESC0402(1005)_L)
+Added Component: Designator=U43(ADI-R-8_M)
+Added Pin To Net: NetName=ADC_OUTA1 Pin=R1_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=R2_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTB1 Pin=R3_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTB1 Pin=R4_ADC_INPUT_FILTER1-2
+Added Pin To Net: NetName=ADC_OUTC1 Pin=R5_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTC1 Pin=R6_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTD1 Pin=R7_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTD1 Pin=R8_ADC_INPUT_FILTER1-2
+Added Pin To Net: NetName=ADC_OUTE1 Pin=R9_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTE1 Pin=R10_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTF1 Pin=R11_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTF1 Pin=R12_ADC_INPUT_FILTER1-2
+Added Pin To Net: NetName=ADC_OUTG1 Pin=R13_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTG1 Pin=R14_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTH1 Pin=R15_ADC_INPUT_FILTER1-1
+Added Pin To Net: NetName=ADC_OUTH1 Pin=R16_ADC_INPUT_FILTER1-2
+Added Pin To Net: NetName=3.3V Pin=R94-1
+Added Pin To Net: NetName=NetC92_2 Pin=R94-2
+Added Pin To Net: NetName=GND Pin=U43-1
+Added Pin To Net: NetName=5V_ANALOG Pin=U43-2
+Added Pin To Net: NetName=GND Pin=U43-3
+Added Pin To Net: NetName=GND Pin=U43-4
+Added Pin To Net: NetName=GND Pin=U43-5
+Added Pin To Net: NetName=NetC254_1 Pin=U43-6
+Added Pin To Net: NetName=GND Pin=U43-7
+Added Pin To Net: NetName=ADC_OUTA2 Pin=R1_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTA2 Pin=R2_ADC_INPUT_FILTER2-1
+Added Net: Name=ADC_OUTA2
+Added Pin To Net: NetName=ADC_OUTB2 Pin=R3_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTB2 Pin=R4_ADC_INPUT_FILTER2-2
+Added Net: Name=ADC_OUTB2
+Added Pin To Net: NetName=ADC_OUTC2 Pin=R5_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTC2 Pin=R6_ADC_INPUT_FILTER2-1
+Added Net: Name=ADC_OUTC2
+Added Pin To Net: NetName=ADC_OUTD2 Pin=R7_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTD2 Pin=R8_ADC_INPUT_FILTER2-2
+Added Net: Name=ADC_OUTD2
+Added Pin To Net: NetName=ADC_OUTE2 Pin=R9_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTE2 Pin=R10_ADC_INPUT_FILTER2-1
+Added Net: Name=ADC_OUTE2
+Added Pin To Net: NetName=ADC_OUTF2 Pin=R11_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTF2 Pin=R12_ADC_INPUT_FILTER2-2
+Added Net: Name=ADC_OUTF2
+Added Pin To Net: NetName=ADC_OUTG2 Pin=R13_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTG2 Pin=R14_ADC_INPUT_FILTER2-1
+Added Net: Name=ADC_OUTG2
+Added Pin To Net: NetName=ADC_OUTH2 Pin=R15_ADC_INPUT_FILTER2-1
+Added Pin To Net: NetName=ADC_OUTH2 Pin=R16_ADC_INPUT_FILTER2-2
+Added Net: Name=ADC_OUTH2
+Added Member To Class: ClassName=INPUTS_OUTPUTS Member=Component R94 RES0402
+Added Member To Class: ClassName=ADC_OUTA[0..1] Member=Element[2]: ADC_INPUT0_ADC2
+Added Member To Class: ClassName=ADC_OUTB[0..1] Member=Element[2]: ADC_INPUT1_ADC2
+Added Member To Class: ClassName=ADC_OUTC[0..1] Member=Element[2]: ADC_INPUT2_ADC2
+Added Member To Class: ClassName=ADC_OUTD[0..1] Member=Element[2]: ADC_INPUT3_ADC2
+Added Member To Class: ClassName=ADC_OUTE[0..1] Member=Element[2]: ADC_INPUT4_ADC2
+Added Member To Class: ClassName=ADC_OUTF[0..1] Member=Element[2]: ADC_INPUT5_ADC2
+Added Member To Class: ClassName=ADC_OUTG[0..1] Member=Element[2]: ADC_INPUT6_ADC2
+Added Member To Class: ClassName=ADC_OUTH[0..1] Member=Element[2]: ADC_INPUT7_ADC2
